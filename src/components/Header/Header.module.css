@@ -1,0 +1,13 @@
+.header{
+    width: auto;
+    height: 5vh;
+    background-color: #262626;
+    display: flex;
+    justify-content: space-between;
+    padding: 1.1em 10em;
+}
+
+.nav{
+    padding-top: .5rem;
+    
+}

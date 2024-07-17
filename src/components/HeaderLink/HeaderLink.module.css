@@ -1,0 +1,27 @@
+.link{
+
+    border: 1px solid white;
+    border-radius: 7px;
+    font-size: 18px;
+    font-weight: 600;
+    padding: .5em;
+    margin: .5em;
+    text-decoration: none;
+    text-transform: uppercase;
+    /* transition: all .3  s; */
+    transition: all .3s;
+}
+
+.link:visited{
+    color: black;
+}
+
+.link:hover{
+    color: #257be5;
+    /* background-color: #0000FF; */
+    /* background: radial-gradient(circle, black, #00008B, #0000FF); */
+    border: blue;
+    background: radial-gradient(circle, #424242 40%, #257be5);
+    box-shadow: 0 0 10px #257be5;
+}
+
